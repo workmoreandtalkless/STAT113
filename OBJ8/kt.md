@@ -120,3 +120,12 @@ When performing a Wilcoxon signed-ranks test, we reject the null hypothesis if t
 ![Alt text](image-48.png)
 ![Alt text](image-49.png)
 ![Alt text](image-50.png)
+
+### Confidence interval for the difference in Population means: Paired:
+![Alt text](image-51.png)
+![Alt text](image-52.png)
+
+### Simple linear regression: Explained and unexplained variation
+![Alt text](image-53.png)
+![Alt text](image-54.png)
+![Alt text](image-55.png)
