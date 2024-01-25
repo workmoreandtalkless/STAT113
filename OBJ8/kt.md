@@ -129,3 +129,51 @@ When performing a Wilcoxon signed-ranks test, we reject the null hypothesis if t
 ![Alt text](image-53.png)
 ![Alt text](image-54.png)
 ![Alt text](image-55.png)
+
+### Hypothesis test for the difference of population means: t test for
+![Alt text](image-56.png)
+![Alt text](image-57.png)
+![Alt text](image-58.png)
+
+![Alt text](image-59.png)
+![Alt text](image-60.png)
+![Alt text](image-61.png)
+
+![Alt text](image-62.png)
+![Alt text](image-63.png)
+![Alt text](image-64.png)
+
+![Alt text](image-65.png)
+![Alt text](image-66.png)
+![Alt text](image-67.png)
+
+### ANOVA：Degrees of freedom and the F statistic
+![Alt text](image-68.png)
+![Alt text](image-69.png)
+
+### ANOVA: mean squares and the common population variance
+![Alt text](image-74.png)
+![Alt text](image-72.png)
+![Alt text](image-73.png)
+
+### Selecting among t test and ANOVA tests
+![Alt text](image-75.png)
+![Alt text](image-76.png)
+![Alt text](image-77.png)
+
+
+![Alt text](image-78.png)
+![Alt text](image-79.png)
+![Alt text](image-80.png)
+
+![Alt text](image-81.png)
+
+#### error
+![Alt text](image-82.png)
+![Alt text](image-83.png)
+
+
+![Alt text](image-84.png)
+![Alt text](image-85.png)
+
+![Alt text](image-86.png)
